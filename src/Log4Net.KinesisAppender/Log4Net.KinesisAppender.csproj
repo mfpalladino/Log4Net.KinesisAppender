@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <DebugType>full</DebugType>
+
+    <PackageId>Palladino.Log4Net.KinesisAppender</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Marcelo Palladino</Authors>
+    <Company>Marcelo Palladino</Company>
+
   </PropertyGroup>
 
   <ItemGroup>

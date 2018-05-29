@@ -2,7 +2,7 @@
 
 **How to use it?**
 
-- 1-install-package Log4Net.KinesisAppender
+- 1-install-package Palladino.Log4Net.KinesisAppender
 
 - 2-Create your Kinesis stream
 
