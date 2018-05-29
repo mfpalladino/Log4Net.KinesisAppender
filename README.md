@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rcgcrjonl0btruoe?svg=true)](https://ci.appveyor.com/project/mfpalladino/log4net-kinesisappender)
+
 #  Log4Net.KinesisAppender
 
 **How to use it?**
