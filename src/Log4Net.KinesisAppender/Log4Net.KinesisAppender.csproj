@@ -4,10 +4,13 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <DebugType>full</DebugType>
 
-    <PackageId>Palladino.Log4Net.KinesisAppender</PackageId>
-    <Version>1.0.0</Version>
+    <PackageId>Log4Net.KinesisAppender</PackageId>
+    <Version>0.1.0</Version>
     <Authors>Marcelo Palladino</Authors>
-    <Company>Marcelo Palladino</Company>
+    <Title>Log4net logs to AWS Kinesis Stream</Title>
+    <ProjectUrl>https://github.com/mfpalladino/Log4Net.KinesisAppender</ProjectUrl>
+    <Description>Log4Net appender to send log events to an AWS Kinesis stream (https://github.com/mfpalladino/Log4Net.KinesisAppender).</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 
   </PropertyGroup>
 
