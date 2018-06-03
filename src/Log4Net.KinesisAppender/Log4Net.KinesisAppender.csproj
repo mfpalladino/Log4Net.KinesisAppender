@@ -8,10 +8,11 @@
     <Version>0.1.0</Version>
     <Authors>Marcelo Palladino</Authors>
     <Title>Log4net logs to AWS Kinesis Stream</Title>
-    <ProjectUrl>https://github.com/mfpalladino/Log4Net.KinesisAppender</ProjectUrl>
     <Description>Log4Net appender to send log events to an AWS Kinesis stream (https://github.com/mfpalladino/Log4Net.KinesisAppender).</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-
+    <PackageProjectUrl>https://github.com/mfpalladino/Log4Net.KinesisAppender</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mfpalladino/Log4Net.KinesisAppender</RepositoryUrl>  
+    <PackageTags>AWS Amazon Kinesis Stream Log4Net</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
