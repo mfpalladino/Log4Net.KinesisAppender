@@ -5,7 +5,7 @@
     <DebugType>full</DebugType>
 
     <PackageId>Log4Net.KinesisAppender</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.2.0</Version>
     <Authors>Marcelo Palladino</Authors>
     <Title>Log4net logs to AWS Kinesis Stream</Title>
     <Description>Log4Net appender to send log events to an AWS Kinesis stream (https://github.com/mfpalladino/Log4Net.KinesisAppender).</Description>
